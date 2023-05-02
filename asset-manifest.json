@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_weathera_Assignment.git/static/css/main.a9b8e5d8.css",
+    "main.js": "/React_weathera_Assignment.git/static/js/main.ec72b833.js",
+    "static/js/787.d9312eb8.chunk.js": "/React_weathera_Assignment.git/static/js/787.d9312eb8.chunk.js",
+    "static/media/sunrise.jpg": "/React_weathera_Assignment.git/static/media/sunrise.083e352d4febe18d35a8.jpg",
+    "index.html": "/React_weathera_Assignment.git/index.html",
+    "main.a9b8e5d8.css.map": "/React_weathera_Assignment.git/static/css/main.a9b8e5d8.css.map",
+    "main.ec72b833.js.map": "/React_weathera_Assignment.git/static/js/main.ec72b833.js.map",
+    "787.d9312eb8.chunk.js.map": "/React_weathera_Assignment.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9b8e5d8.css",
+    "static/js/main.ec72b833.js"
+  ]
+}
