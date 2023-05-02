@@ -1,0 +1,50 @@
+
+.weatherBg{
+  background: url(/images/sunrise.jpg);
+  height: 50vh;
+  display: flex;
+  align-items:center ;
+  flex-direction: column;
+  justify-content: center;
+ background-size:cover;
+ background-repeat: no-repeat;
+}
+h1{
+  color: white;
+}
+.weatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weathericone{
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+}
+.weatherCity{
+  font-size: 20px;
+}
+.weatherTemp{
+  font-size: 20px;
+}
+
+
+
+@media only  screen and (max-width : 490px){
+  .weatherBg{
+    height: 35vh;
+    width:100%;
+  }
+  .weatherResultBox{
+    margin: auto;
+    width: 300px;
+    height: 250px;
+  }
+  .weatherCity{
+    font-size: 15px;
+  }
+  .weatherTemp{
+    font-size: 10px;
+  }
+}
